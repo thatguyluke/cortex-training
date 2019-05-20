@@ -1,0 +1,9 @@
+{
+    "name": "cortex-api-requests/Feedback",
+    "camel": "1.0.0",
+    "title": "Feedback API Request",
+    "parameters": [
+        {"name": "profileId", "type": "string", "description": "ID of Profile to Ingest Feedback For", "required": true},
+        {"name": "insightsLiked", "type": "array", "format": "object", "description": "List of Insights Liked by User", "required": true}
+    ]
+}

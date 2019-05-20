@@ -1,0 +1,11 @@
+{
+    "name": "cortex/NewsArticle",
+    "camel": "1.0.0",
+    "title": "News Article",
+    "parameters": [
+        {"name": "url", "type": "string"},
+        {"name": "article_id", "type": "string"},
+        {"name": "keywords", "type": "array"},
+        {"name": "publish_date", "type": "string"}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "cortex/Insights",
+    "title": "Insights Generated for Users",
+    "parameters": {
+        "$ref": "cortex/Insight"
+    },
+    "connectionName": "cortex/content",
+    "connectionQuery": [
+        {"name": "key", "value": "newsAgent/datasets/insights.json"},
+        {"name": "contentType", "value": "application/json-lines"}
+    ]
+}

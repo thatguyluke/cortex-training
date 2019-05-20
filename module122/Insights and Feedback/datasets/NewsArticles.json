@@ -1,0 +1,12 @@
+{
+    "name": "cortex/NewsArticles",
+    "title": "News Articles",
+    "parameters": {
+        "$ref": "cortex/NewsArticle"
+    },
+    "connectionName": "cortex/content",
+    "connectionQuery": [
+        {"name": "key", "value": "newsAgent/datasets/newsArticles.json"},
+        {"name": "contentType", "value": "application/json-lines"}
+    ]
+}

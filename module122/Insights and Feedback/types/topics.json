@@ -1,0 +1,20 @@
+{
+    "name": "cortex/Topic",
+    "camel": "1.0.0",
+    "title": "Topic",
+    "parameters": [
+        {
+            "name": "topic",
+            "type": "string",
+            "description": "Name of Topic",
+            "required": true
+        },
+        {
+            "name": "keywords",
+            "type": "array",
+            "format": "string",
+            "description": "List of Keywords in Topic",
+            "required": true
+        }
+    ]
+}

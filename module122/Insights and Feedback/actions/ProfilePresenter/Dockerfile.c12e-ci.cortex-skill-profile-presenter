@@ -1,0 +1,6 @@
+FROM c12e/alpine-miniconda:conda-4.3.14
+WORKDIR /function
+ADD requirements.txt /function/requirements.txt
+RUN pip install -r /function/requirements.txt
+ADD src /function
+ENTRYPOINT ["python3", "-u", "func.py"]

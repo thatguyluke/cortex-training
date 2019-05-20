@@ -1,0 +1,23 @@
+camel: 1.0.0
+name: fpi/ProfilePresenter
+title: Profile Presenter
+description: Presents profiles for Profile of One
+inputs:
+ - name: presentation_request
+   title: Profile to Present
+   parameters:
+     $ref: cortex-api-requests/Profiles
+   routing:
+     all:
+       action: fpi/ProfilePresenter
+       runtime: cortex/functions
+       output: profile_presentation
+outputs:
+ - name: profile_presentation
+   title: Profile Presentation
+   parameters:
+     $ref: cortex-api-responses/Profiles
+datasets:
+   - name: profiles_ref
+     parameters:
+         $ref: cortex/Profiles

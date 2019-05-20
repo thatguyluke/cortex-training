@@ -1,0 +1,12 @@
+{
+    "name": "cortex/Insight",
+    "camel": "1.0.0",
+    "title": "Insight",
+    "parameters": [
+        {"name": "insightId", "type": "string"},
+        {"name": "profileId", "type": "string"},
+        {"name": "dateGenerated", "type": "string"},
+        {"name": "score", "type": "number", "format": "float"},
+        {"name": "content", "type": "object"}
+    ]
+}

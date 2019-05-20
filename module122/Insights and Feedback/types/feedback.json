@@ -1,0 +1,11 @@
+{
+    "name": "cortex/Feedback",
+    "camel": "1.0.0",
+    "title": "Feedback",
+    "parameters": [
+        {"name": "insightId", "type": "string"},
+        {"name": "profileId", "type": "string"},
+        {"name": "feedbackEvent", "type": "string"},
+        {"name": "date", "type": "string"}
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "instanceId": "none",
+    "sessionId": "none",
+    "channelId": "none",
+    "typeName": "cortex/Text",
+    "timestamp": 0,
+    "datasetBindings": [],
+    "entityBindings": [],
+    "token": "<token here>",
+    "apiEndpoint": "<endpoint here>",
+    "properties": {},
+    "payload": {
+        "profileId": "tom", 
+        "insightsLiked": [
+            {
+              "insightId": "318131af-2720-4c93-8e91-e45144bb811b",
+              "profileId": "tom",
+              "dateGenerated": "2018-09-18T05:49:35.335246+00:00",
+              "score": 63,
+              "content": {
+                "url": "https://www.reuters.com/article/us-saudi-investment-auto/saudis-pif-invests-more-than-1-billion-in-electric-carmaker-lucid-motors-idUSKCN1LX1IG?feedType=RSS&amp;feedName=businessNews",
+                "article_id": "aHR0cHMvd3d3LnJldXRlcnMuY29tL2FydGljbGUvdXMtc2F1ZGktaW52ZXN0bWVudC1hdXRvL3NhdWRpcy1waWYtaW52ZXN0cy1tb3JlLXRoYW4tMS1iaWxsaW9uLWluLWVsZWN0cmljLWNhcm1ha2VyLWx1Y2lkLW1vdG9ycy1pZFVTS0NOMUxYMUlH",
+                "keywords": [
+                  "lucid",
+                  "vehicle",
+                  "saudis",
+                  "billion",
+                  "technology",
+                  "saudi",
+                  "motors",
+                  "invests",
+                  "tesla",
+                  "fund",
+                  "carmaker",
+                  "electric",
+                  "pif"
+                ],
+                "publish_date": "2018-09-17T16:28:04+00:00"
+              }
+            }
+        ]
+    }
+}

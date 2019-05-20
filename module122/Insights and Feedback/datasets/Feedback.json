@@ -1,0 +1,12 @@
+{
+    "name": "cortex/Feedback",
+    "title": "User Feedback",
+    "parameters": {
+        "$ref": "cortex/Feedback"
+    },
+    "connectionName": "cortex/content",
+    "connectionQuery": [
+        {"name": "key", "value": "newsAgent/datasets/feedback.json"},
+        {"name": "contentType", "value": "application/json-lines"}
+    ]
+}

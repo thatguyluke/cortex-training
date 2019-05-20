@@ -1,0 +1,9 @@
+{
+    "name": "cortex-api-responses/Profiles",
+    "camel": "1.0.0",
+    "title": "Profiles API Response",
+    "parameters": [
+        {"name": "profileId", "type": "string", "description": "ID of Profile being retrieved.", "required": true},
+        {"name": "profileAttributes", "type": "object", "description": "Representation of Profile.", "required": true}
+    ]
+}

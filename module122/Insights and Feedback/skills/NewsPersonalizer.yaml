@@ -1,0 +1,29 @@
+camel: 1.0.0
+name: fpi/NewsPersonalizer
+title: News Personalizer
+description: Personalizes News for Specific User
+inputs:
+  - name: personalization_request
+    title: News Personalization Request
+    parameters:
+      $ref: cortex-api-requests/Insights
+    routing:
+      all:
+        action: fpi/NewsPersonalizer
+        runtime: cortex/functions
+        output: insights
+outputs:
+ - name: insights
+   title: Personalized News Insights
+   parameters:
+     $ref: cortex-api-responses/Insights
+datasets:
+   - name: articles_ref
+     parameters:
+         $ref: cortex/NewsArticle
+   - name: profiles_ref
+     parameters:
+         $ref: cortex/Profile
+   - name: insights_ref
+     parameters:
+         $ref: cortex/Insight

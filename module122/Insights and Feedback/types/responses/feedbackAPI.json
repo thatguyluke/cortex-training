@@ -1,0 +1,8 @@
+{
+    "name": "cortex-api-responses/Feedback",
+    "camel": "1.0.0",
+    "title": "Feedback API Response",
+    "parameters": [
+        {"name": "profileId", "type": "string", "description": "ID of Profile feedback was processed for.", "required": true}
+    ]
+}

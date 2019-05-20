@@ -1,0 +1,113 @@
+{
+    "camel": "1.0.0",
+    "name": "fpi/news-personalization-reference-agent",
+    "title": "NewsAgent",
+    "description": "A reference agent that showcases the FPI features by personalizing news articles.",
+    "tags": [],
+    "properties": [],
+    "inputs": [
+        {
+            "signalType": "Service",
+            "name": "insightsAPI",
+            "title": "insightsAPI",
+            "parameters": {
+                "$ref": "cortex-api-requests/Insights"
+            },
+            "output": "insight_generation"
+        },
+        {
+            "signalType": "Service",
+            "name": "feedbackAPI",
+            "title": "feedbackAPI",
+            "parameters": {
+                "$ref": "cortex-api-requests/Feedback"
+            },
+            "output": "feedback_processing"
+        },
+        {
+            "signalType": "Service",
+            "name": "profilesAPI",
+            "title": "profilesAPI",
+            "parameters": {
+                "$ref": "cortex-api-requests/Profiles"
+            },
+            "output": "profile_presentation"
+        }
+    ],
+    "outputs": [
+        {
+            "signalType": "Service",
+            "name": "insight_generation",
+            "title": "insight_generation",
+            "parameters": {
+                "$ref": "cortex-api-responses/Insights"
+            }
+        },
+        {
+            "signalType": "Service",
+            "name": "feedback_processing",
+            "title": "feedback_processing",
+            "parameters": {
+                "$ref": "cortex-api-responses/Feedback"
+            }
+        },
+        {
+            "signalType": "Service",
+            "name": "profile_presentation",
+            "title": "profile_presentation",
+            "parameters": {
+                "$ref": "cortex-api-responses/Profiles"
+            }
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "fpi/NewsPersonalizer",
+            "title": "NewsPersonalizer",
+            "description": "Implementation of an Insights API to Personalize News.",
+            "properties": [ ]
+        },
+        {
+            "skillName": "fpi/FeedbackHandler",
+            "title": "FeedbackHandler",
+            "description": "Implementation of a Feedback API to Process Liked News Insights.",
+            "properties": [ ]
+        },
+        {
+            "skillName": "fpi/ProfilePresenter",
+            "title": "ProfilePresenter",
+            "description": "Implementation of a Profiles API to Prepare Profiles for Presentation.",
+            "properties": [ ]
+        }
+    ],
+    "mappings": [
+        {
+          "from": {
+            "input": {
+              "signalId": "null"
+            }
+          },
+          "rules": [],
+          "to": {
+            "skill": {
+              "input": "null",
+              "refId": "null"
+            }
+          }
+        },
+        {
+          "from": {
+            "skill": {
+              "output": "null",
+              "refId": "null"
+            }
+          },
+          "rules": [],
+          "to": {
+            "output": {
+              "signalId": "null"
+            }
+          }
+        }
+    ]
+}

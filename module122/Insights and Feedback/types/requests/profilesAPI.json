@@ -1,0 +1,8 @@
+{
+    "name": "cortex-api-requests/Profiles",
+    "camel": "1.0.0",
+    "title": "Profiles API Request",
+    "parameters": [
+        {"name": "profileId", "type": "string", "description": "ID of Profile to get Profile For", "required": true}
+    ]
+}

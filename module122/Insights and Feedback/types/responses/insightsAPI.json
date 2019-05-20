@@ -1,0 +1,9 @@
+{
+    "name": "cortex-api-responses/Insights",
+    "camel": "1.0.0",
+    "title": "Insights API Response",
+    "parameters": [
+        {"name": "profileId", "type": "string", "description": "ID of Profile Insights were Generated For.", "required": true},
+        {"name": "insights", "type": "array", "format": "object", "description": "List of Insights", "required": true}
+    ]
+}

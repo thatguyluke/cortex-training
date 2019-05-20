@@ -1,0 +1,10 @@
+{
+  "@c12e/generator-cortex": {
+    "promptValues": {
+      "projectName": "hello-dataset",
+      "projectPrefix": "hd"
+    },
+    "projectName": "hello-dataset",
+    "projectPrefix": "hd"
+  }
+}

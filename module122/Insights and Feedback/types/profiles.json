@@ -1,0 +1,10 @@
+{
+    "name": "cortex/Profile",
+    "camel": "1.0.0",
+    "title": "Profile Attributes",
+    "parameters": [
+        {"name": "profileId", "type": "string"},
+        {"name": "attributeId", "type": "string"},
+        {"name": "value", "type": "object"}
+    ]
+}

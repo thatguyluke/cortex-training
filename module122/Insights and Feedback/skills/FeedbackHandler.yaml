@@ -1,0 +1,26 @@
+camel: 1.0.0
+name: fpi/FeedbackHandler
+title: Feedback Handler
+description: Handles feedback for Profile of One
+inputs:
+ - name: insights_liked
+   title: User Explcitly Informing the System of the Insights the User Liked
+   parameters:
+     $ref: cortex-api-requests/Feedback
+   routing:
+    all:
+     action: fpi/FeedbackHandler
+     runtime: cortex/functions
+     output: feedback_ingestion_complete
+outputs:
+ - name: feedback_ingestion_complete
+   title: Done Feedback Ingestion for Specific User
+   parameters:
+     $ref: cortex-api-responses/Feedback
+datasets:
+   - name: profiles_ref
+     parameters:
+        $ref: cortex/Profiles
+   - name: feedback_ref
+     parameters:
+         $ref: cortex/Feedback

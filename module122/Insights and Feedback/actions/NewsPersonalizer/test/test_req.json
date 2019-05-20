@@ -1,0 +1,15 @@
+{
+    "instanceId": "none",
+    "sessionId": "none",
+    "channelId": "none",
+    "typeName": "cortex/Text",
+    "timestamp": 0,
+    "datasetBindings": [],
+    "entityBindings": [],
+    "token": "<token here>",
+    "apiEndpoint": "<endpoint here>",
+    "properties": {},
+    "payload": {
+        "profileId": "tom"
+    }
+}

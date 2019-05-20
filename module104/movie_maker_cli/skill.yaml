@@ -1,0 +1,26 @@
+camel: 1.0.0
+name: class/movie-maker-cli-YOUR_INITIALS
+title:  movie-maker
+description: Movie Maker is a skill in which a fake cast is generated for a given movie title
+inputs:
+  - name: make_movie
+    title: Name of Movie
+    parameters:
+      - name: name_of_movie
+        type: string
+        description: The name of the movie as input by the user which the function will generate a fake cast for
+        required: true
+    routing:
+      all:
+        action  : class/movie-maker-cli-YOUR_INITIALS
+        runtime: cortex/functions
+        output: generated-movie
+
+outputs:
+  - name: generated-movie
+    title: Movie
+    parameters:
+      - name: movie
+        type: object
+        description: The generated movie details
+        required: true
