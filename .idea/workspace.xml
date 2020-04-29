@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bf96c18-cd99-4e73-aa75-a64c388cb99a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/bashsupport_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/1_hello_world/.ipynb_checkpoints/hello_world-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/1_hello_world/.ipynb_checkpoints/hello_world-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/1_hello_world/hello_world.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/1_hello_world/hello_world.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/1_hello_world/setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/1_hello_world/setup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/movie_maker_extended-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/movie_maker_extended-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/replace_cast-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/replace_cast-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/setup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/.ipynb_checkpoints/setup-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/movie_maker_extended.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/movie_maker_extended.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/replace_cast.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/replace_cast.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/2_movie_maker/setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/2_movie_maker/setup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/.ipynb_checkpoints/invoke_agent_as_skill-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/.ipynb_checkpoints/invoke_agent_as_skill-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/.ipynb_checkpoints/setup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/.ipynb_checkpoints/setup-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/invoke_agent_as_skill.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/invoke_agent_as_skill.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/3_invoke_agent_as_skill/setup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/4_action_within_a_skill/.ipynb_checkpoints/set_cast-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/4_action_within_a_skill/.ipynb_checkpoints/set_cast-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/4_action_within_a_skill/.ipynb_checkpoints/setup-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/4_action_within_a_skill/.ipynb_checkpoints/setup-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/4_action_within_a_skill/set_cast.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/4_action_within_a_skill/set_cast.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module103/4_action_within_a_skill/setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module103/4_action_within_a_skill/setup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/ames_analysis-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/ames_clean-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/ames_deploy-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/ames_features-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/ames_modeling-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/.ipynb_checkpoints/config-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/ames_analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/ames_clean.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/ames_deploy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/ames_features.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/ames_modeling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/config.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/1_AMES_housing_prediction/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/2_cortex_connections/.ipynb_checkpoints/ETL-new-sdk-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/2_cortex_connections/.ipynb_checkpoints/cortex_connections-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/2_cortex_connections/.ipynb_checkpoints/setup-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/2_cortex_connections/cortex_connections.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/2_cortex_connections/setup.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/.ipynb_checkpoints/movie_recommender-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/.ipynb_checkpoints/setup-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/.yo-rc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/datasets/.ipynb_checkpoints/tmdb_5000_credits-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/datasets/.ipynb_checkpoints/tmdb_5000_movies-checkpoint.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/datasets/ratings_small.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/datasets/tmdb_5000_credits.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/datasets/tmdb_5000_movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/movie_recommender.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module112/3_movie_recommender/setup.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module121/1_car_classifier/car_classifier.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module121/1_car_classifier/car_classifier.ipynb" afterDir="false" />
+    </list>
+    <ignored path="Incorporating insights into skills using feedback/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cortex_examples.ipynb" />
+        <option value="$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/src/__main__.py" />
+        <option value="$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/profile_vote_getter/src/__main__.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2560" />
+    <option name="y" value="-12" />
+    <option name="width" value="1680" />
+    <option name="height" value="989" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Cortex_foundations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cortex_foundations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cortex_foundations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Cortex_foundations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bf96c18-cd99-4e73-aa75-a64c388cb99a" name="Default Changelist" comment="" />
+      <created>1570804919777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570804919777</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2560" y="-12" width="1680" height="989" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26923078" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3299909" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3299909" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/deploy-skill.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/test/test_req.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/src/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/src/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/profile_vote_getter/src/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/profile_vote_getter/src/tally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="68" column="44" lean-forward="true" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/profile_vote_getter/src/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cortex_examples.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/deploy-function.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/build-function.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Incorporating insights into skills using feedback/skills/dinner_menu/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

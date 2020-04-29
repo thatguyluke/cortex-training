@@ -1,0 +1,26 @@
+camel: 1.0.0
+name: ltwardowski/luketest3
+title: test2 luketest3 Skill
+description: Update this description -- test2 luketest3
+inputs:
+  - name: input1
+    title: input1
+    parameters:
+      - name: text
+        type: string
+        description: Update this description
+        required: true
+    routing:
+      all:
+        action  : ltwardowski/luketest3
+        runtime: cortex/functions
+        output: output1
+
+outputs:
+  - name: output1
+    title: output1
+    parameters:
+      - name: text
+        type: string
+        description: Update this description
+        required: true
